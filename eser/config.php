@@ -1,3 +1,3 @@
 <?php
-    $email_to =   'email@domain.com'; //the address to which the email will be sent
+    $email_to =   'hanoguz@gmail.com'; //the address to which the email will be sent
 ?>
